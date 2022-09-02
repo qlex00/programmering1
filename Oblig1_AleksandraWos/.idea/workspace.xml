@@ -26,14 +26,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alexg/OneDrive/Dokumenty/GitHub/programmering1/Oblig1_AleksandraWos&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ASUS/Documents/GitHub/programmering1/Oblig1_AleksandraWos",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Oppgave5">
     <configuration name="Oppgave1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Oblig1_AleksandraWos" />
@@ -148,8 +149,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Oppgave5" />
-        <item itemvalue="Python.Oppgave3" />
         <item itemvalue="Python.Oppgave4" />
+        <item itemvalue="Python.Oppgave3" />
         <item itemvalue="Python.Oppgave2" />
         <item itemvalue="Python.Oppgave1" />
       </list>
@@ -168,6 +169,7 @@
       <workItem from="1662052512589" duration="1301000" />
       <workItem from="1662054589265" duration="1314000" />
       <workItem from="1662117042140" duration="858000" />
+      <workItem from="1662118437117" duration="1660000" />
     </task>
     <servers />
   </component>
@@ -186,11 +188,11 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave1.coverage" NAME="Oppgave1 Coverage Results" MODIFIED="1662052445396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave4.coverage" NAME="Oppgave4 Coverage Results" MODIFIED="1662117367062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave3.coverage" NAME="Oppgave3 Coverage Results" MODIFIED="1662122172920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave4.coverage" NAME="Oppgave4 Coverage Results" MODIFIED="1662122317203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$oppgave1.coverage" NAME="oppgave1 Coverage Results" MODIFIED="1662052294809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave2.coverage" NAME="Oppgave2 Coverage Results" MODIFIED="1662054682946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave5.coverage" NAME="Oppgave5 Coverage Results" MODIFIED="1662117875390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave3.coverage" NAME="Oppgave3 Coverage Results" MODIFIED="1662117601086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave2.coverage" NAME="Oppgave2 Coverage Results" MODIFIED="1662121104943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave1.coverage" NAME="Oppgave1 Coverage Results" MODIFIED="1662121101910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Oblig1_AleksandraWos$Oppgave5.coverage" NAME="Oppgave5 Coverage Results" MODIFIED="1662122391448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
